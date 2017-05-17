@@ -10,4 +10,4 @@ This is my first project using c language, with more than 5,500 lines of code.In
 Unfortunately, Borland C is a outdated platform and provide poor graphics library, which offer only 16 colors to design graphical interfaces.So I finish a graphics library with Int86 interrupt and use it to design GUi. 
 Information is saved in files and managed by list.
 
-Iamges are not uploaded.You can get all the files from zip.
+Iamges are not uploaded.
